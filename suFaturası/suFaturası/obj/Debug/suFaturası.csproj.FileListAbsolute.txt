@@ -1,0 +1,9 @@
+C:\Users\Lenovo\Desktop\Projelerim\Veri yapıları\suFaturası\suFaturası\bin\Debug\suFaturası.exe.config
+C:\Users\Lenovo\Desktop\Projelerim\Veri yapıları\suFaturası\suFaturası\bin\Debug\suFaturası.exe
+C:\Users\Lenovo\Desktop\Projelerim\Veri yapıları\suFaturası\suFaturası\bin\Debug\suFaturası.pdb
+C:\Users\Lenovo\Desktop\Projelerim\Veri yapıları\suFaturası\suFaturası\obj\Debug\suFaturası.csprojResolveAssemblyReference.cache
+C:\Users\Lenovo\Desktop\Projelerim\Veri yapıları\suFaturası\suFaturası\obj\Debug\suFaturası.Form1.resources
+C:\Users\Lenovo\Desktop\Projelerim\Veri yapıları\suFaturası\suFaturası\obj\Debug\suFaturası.Properties.Resources.resources
+C:\Users\Lenovo\Desktop\Projelerim\Veri yapıları\suFaturası\suFaturası\obj\Debug\suFaturası.csproj.GenerateResource.Cache
+C:\Users\Lenovo\Desktop\Projelerim\Veri yapıları\suFaturası\suFaturası\obj\Debug\suFaturası.exe
+C:\Users\Lenovo\Desktop\Projelerim\Veri yapıları\suFaturası\suFaturası\obj\Debug\suFaturası.pdb
